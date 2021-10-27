@@ -1,0 +1,26 @@
+[2021-10-27 19:22:43.808] [exthost] [info] extension host started
+[2021-10-27 19:22:43.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-27 19:22:43.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-27 19:22:44.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-27 19:22:44.006] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/git/dist/main
+[2021-10-27 19:22:44.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-27 19:22:44.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/github/dist/extension.js
+[2021-10-27 19:22:44.358] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-27 19:22:44.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-27 19:22:44.717] [exthost] [info] eager extensions activated
+[2021-10-27 19:22:44.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 19:22:44.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-27 19:22:44.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 19:22:44.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-27 19:22:45.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-10-27 19:22:45.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-10-27 19:23:00.122] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: '*'
+[2021-10-27 19:23:00.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/choamskies/.vscode-oss/extensions/naumovs.color-highlight-2.5.0/dist/extension-node.js
+[2021-10-27 19:23:07.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-27 19:23:07.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-27 19:23:07.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-27 19:23:07.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-27 19:23:07.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-27 19:23:07.993] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-27 19:33:21.726] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-27 19:33:22.751] [exthost] [info] exiting with code 0

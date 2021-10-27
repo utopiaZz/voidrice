@@ -1,0 +1,37 @@
+[2021-10-27 14:37:15.204] [exthost] [info] extension host started
+[2021-10-27 14:37:15.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-27 14:37:15.367] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-27 14:37:15.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-27 14:37:15.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/git/dist/main
+[2021-10-27 14:37:15.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-27 14:37:15.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/github/dist/extension.js
+[2021-10-27 14:37:15.558] [exthost] [info] eager extensions activated
+[2021-10-27 14:37:15.561] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-27 14:37:15.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-27 14:37:15.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:37:15.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-27 14:37:15.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:37:15.779] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-27 14:38:09.324] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-27 14:38:10.336] [exthost] [info] exiting with code 0
+[2021-10-27 14:38:11.327] [exthost] [info] extension host started
+[2021-10-27 14:38:11.327] [exthost] [info] Skipping acquiring lock for /home/choamskies/.config/Code - OSS/User/workspaceStorage/6e5c040d8ddfd28ab638289ff5bb474c.
+[2021-10-27 14:38:11.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-27 14:38:11.404] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-27 14:38:11.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-27 14:38:11.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/git/dist/main
+[2021-10-27 14:38:11.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-27 14:38:11.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/github/dist/extension.js
+[2021-10-27 14:38:11.550] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-27 14:38:11.550] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-27 14:38:11.732] [exthost] [info] eager extensions activated
+[2021-10-27 14:38:11.766] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 374
+[2021-10-27 14:38:11.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:38:11.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-27 14:38:11.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:38:11.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-27 14:38:15.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-10-27 14:38:15.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-oss/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-10-27 14:38:36.499] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 376
+[2021-10-27 14:39:15.483] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-27 14:39:16.492] [exthost] [info] exiting with code 0
