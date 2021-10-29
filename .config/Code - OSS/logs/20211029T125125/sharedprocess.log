@@ -1,0 +1,10 @@
+[2021-10-29 12:51:37.387] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-29 12:51:57.386] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-29 12:51:57.390] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1635487588321.
+[2021-10-29 12:52:07.378] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-29 12:52:28.225] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2021-10-29 12:52:30.682] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/choamskies/.config/Code - OSS/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2021-10-29 12:52:31.035] [sharedprocess] [info] Extracted extension to /home/choamskies/.vscode-oss/extensions/.7d5b6000-30cd-4a82-9e4d-c24c73c7fb62: naumovs.color-highlight
+[2021-10-29 12:52:31.045] [sharedprocess] [info] Renamed to /home/choamskies/.vscode-oss/extensions/naumovs.color-highlight-2.5.0
+[2021-10-29 12:52:31.046] [sharedprocess] [info] Extracting completed. naumovs.color-highlight
+[2021-10-29 12:52:31.049] [sharedprocess] [info] Extension installed successfully: naumovs.color-highlight

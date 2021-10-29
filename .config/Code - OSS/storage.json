@@ -3,13 +3,16 @@
     "openedPathsList": {
         "entries": [
             {
-                "folderUri": "file:///home/choamskies/.config/x11"
+                "fileUri": "file:///home/choamskies/.config/awesome/rc.lua"
             },
             {
-                "fileUri": "file:///home/choamskies/.config/x11/xresources"
+                "fileUri": "file:///home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userContent.css"
             },
             {
-                "fileUri": "file:///home/choamskies/suckless/mf-dots/.Xresources"
+                "fileUri": "file:///home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userChrome.css"
+            },
+            {
+                "fileUri": "file:///home/choamskies/.config/redshift/redshift.conf"
             }
         ]
     },
@@ -47,20 +50,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "path": "/home/choamskies/.config/x11",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/x11"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -69,23 +60,45 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/choamskies/.config/x11/xresources",
-                                        "path": "/home/choamskies/.config/x11/xresources",
+                                        "external": "file:///home/choamskies/.config/awesome/rc.lua",
+                                        "path": "/home/choamskies/.config/awesome/rc.lua",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/x11/xresources"
+                                    "label": "~/.config/awesome/rc.lua"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/choamskies/suckless/mf-dots/.Xresources",
-                                        "path": "/home/choamskies/suckless/mf-dots/.Xresources",
+                                        "external": "file:///home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userContent.css",
+                                        "path": "/home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userContent.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/suckless/mf-dots/.Xresources"
+                                    "label": "~/.mozilla/firefox/9zu1sb26.default-default/chrome/userContent.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userChrome.css",
+                                        "path": "/home/choamskies/.mozilla/firefox/9zu1sb26.default-default/chrome/userChrome.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.mozilla/firefox/9zu1sb26.default-default/chrome/userChrome.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/choamskies/.config/redshift/redshift.conf",
+                                        "path": "/home/choamskies/.config/redshift/redshift.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/redshift/redshift.conf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -124,13 +137,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -206,13 +217,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -257,13 +266,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -410,8 +417,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -585,8 +591,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -622,8 +627,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1463,41 +1467,40 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1d2021",
+    "themeBackground": "#1e1e1e",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#ebdbb2",
-            "background": "#1d2021",
-            "editorBackground": "#1d2021",
-            "titleBarBackground": "#1d2021",
-            "activityBarBackground": "#1d2021",
-            "sideBarBackground": "#1d2021",
-            "statusBarBackground": "#1d2021",
-            "statusBarNoFolderBackground": "#1d2021"
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 267,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/choamskies/.config/Code - OSS/Backups/1635339161290",
+            "backupPath": "/home/choamskies/.config/Code - OSS/Backups/1635489480977",
             "uiState": {
                 "mode": 1,
                 "x": 14,
                 "y": 63,
-                "width": 2132,
+                "width": 1057,
                 "height": 1363
             }
         },
         "openedWindows": []
-    },
-    "pickerWorkingDir": "/home/choamskies/.config"
+    }
 }

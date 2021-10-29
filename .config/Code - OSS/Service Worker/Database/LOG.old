@@ -1,3 +1,2 @@
-2021/10/27-19:22:40.668 1723 Reusing MANIFEST /home/choamskies/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
-2021/10/27-19:22:40.668 1723 Recovering log #3
-2021/10/27-19:22:40.668 1723 Reusing old log /home/choamskies/.config/Code - OSS/Service Worker/Database/000003.log 
+2021/10/29-12:52:29.212 246f Creating DB /home/choamskies/.config/Code - OSS/Service Worker/Database since it was missing.
+2021/10/29-12:52:29.222 246f Reusing MANIFEST /home/choamskies/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
